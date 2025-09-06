@@ -13,7 +13,7 @@ O objetivo é analisar um dataset de filmes do IMDB e desenvolver um modelo pred
 ├── modelo\_imdb.pkl         
 ├── requirements.txt        
 ├── reports/
-│   └── analise.pdf         
+│   └── relatorio_desafio_indicium.pdf         
 └── README.md               
 
 ````
